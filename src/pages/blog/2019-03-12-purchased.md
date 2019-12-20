@@ -3,21 +3,23 @@ templateKey: blog-post
 title: Finally! Purchased
 date: 2019-03-12T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/chemex.jpg
+featuredimage: /img/nhb-main.jpg
 description: After prolonged legal wrangling we have completed on the barn.
 tags:
   - news hill
 ---
-![news hill](/img/chemex.jpg)
+![news hill](/img/nhb-main.jpg)
 After about 8 weeks of legal wrangling we've bought the barn!
 
 It's in good shape generally as it had the roof renewed in the last 5 years. Inside it has the original floors and some of the threshing 
 machinery.
 
-![original plans](/img/blog/original-plans.png)
+
+![original plans](/img/original-plans.png)
 Plans - The barn came with residential PP, this included the addiotion of an extension on the back. There are some parts of the existing
 PP that we don't like and will try to change, such as the position of the extension, retention of threshing doors and ugly glazing in 
 threshing door hole.
+
 
 ![news hill](/img/blog/purchased/IMG2.jpg)
 Front of the barn with original threshing doors. These are rotten and will hopefully go. This will be replaced with glazing, 
