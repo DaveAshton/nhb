@@ -11,6 +11,9 @@ mainpitch:
 description: >-
   We purchased News Hill barn in March 2019 with the intention of converting it into a 
   well insulated home fit for the 21st century. 
+
+  News Hill barn sits in open countryside close to the river Deben in Suffolk. It was built around 1890
+
 intro:
   blurbs:
     # - image: /img/coffee.png
