@@ -3,13 +3,12 @@ templateKey: blog-post
 title: Finally! Purchased
 date: 2019-03-12T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/blog/nhb-main.jpg
+featuredimage: /img/chemex.jpg
 description: After prolonged legal wrangling we have completed on the barn.
 tags:
   - news hill
 ---
-![news hill](/img/blog/nhb-main.jpg)
-
+![news hill](/img/chemex.jpg)
 After about 8 weeks of legal wrangling we've bought the barn!
 
 It's in good shape generally as it had the roof renewed in the last 5 years. Inside it has the original floors and some of the threshing 
