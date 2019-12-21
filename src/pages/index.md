@@ -3,7 +3,7 @@ templateKey: index-page
 title: News Hill Barn
 image: /img/nhb-track.jpg
 heading: News Hill Barn
-subheading: Conversion of a 19th century threshing barn into a family home
+subheading: Conversion of a 19th century threshing barn into a home
 mainpitch:
   title: ''
   description: >
