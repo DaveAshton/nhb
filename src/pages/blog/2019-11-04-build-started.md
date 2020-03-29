@@ -3,13 +3,13 @@ templateKey: blog-post
 title: Building work started
 date: 2019-11-04T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/nhb-main.jpg
+featuredimage: /img/build-started/i10.jpg
 description: The builders are in and have started clearing the barn out.
 tags:
   - news hill
 ---
-![news hill](/img/nhb-main.jpg)
-The builders started this week. 4 chaps on site (Richard, Steve, xx, xx), first jobs are to clear out all the rubbish (hay, straw, an old boat, all the rotten frame and floors etc etc.) in the barn.
+![news hill](/img/build-started/i10.jpg)
+The builders started this week, first jobs are to clear out all the rubbish (hay, straw, an old boat, all the rotten frame and floors etc etc.) in the barn.
 
 
 ![doors open](/img/build-started/i1.jpg)
