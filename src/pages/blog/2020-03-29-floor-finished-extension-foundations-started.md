@@ -15,3 +15,5 @@ tags:
 ![](/img/img_20191214_113250.jpg "Main barn floor")
 
 ![extension founds](/img/img_20191214_113843.jpg "Also, the foundations for the extension have been completed, ready for concrete a our next week.")
+
+This is a view of the back of the barn. The footings are completed, now ready for concrete pour for the foundations and floor slab.
